@@ -1,15 +1,15 @@
 .header {
-  background: #fff;
+  background: transparent;
   color: #222;
   padding: 2rem 1rem 1rem 1rem;
-  border-bottom: 2px solid #e0c15a;
+  border-bottom: 2px solid #e3f0ff;
   text-align: center;
 }
 .nameSection {
   margin-bottom: 0.5rem;
 }
 .name {
-  color: #bfa52f;
+  color: #3a8dde;
   font-size: 2.5rem;
   letter-spacing: 0.2rem;
   font-weight: 700;
@@ -26,7 +26,7 @@
   font-size: 1rem;
 }
 .contactSection a {
-  color: #bfa52f;
+  color: #3a8dde;
   text-decoration: none;
   font-weight: 500;
 }

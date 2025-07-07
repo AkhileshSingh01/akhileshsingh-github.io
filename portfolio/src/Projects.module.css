@@ -1,0 +1,12 @@
+.desc {
+  font-size: 1.05rem;
+  color: #555;
+  margin-bottom: 0.5rem;
+  font-style: italic;
+}
+.projects .desc {
+  color: #444;
+}
+.App.dark .desc, body[data-theme='dark'] .desc {
+  color: #e0c15a;
+} 

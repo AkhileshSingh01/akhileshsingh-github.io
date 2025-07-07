@@ -1,11 +1,11 @@
 .skillsSection {
-  background: #fff;
+  background: transparent;
   color: #222;
   padding: 2rem 1rem;
-  border-bottom: 1.5px solid #e0c15a;
+  border-bottom: 1.5px solid #e3f0ff;
 }
 .skillsSection h2 {
-  color: #bfa52f;
+  color: #3a8dde;
   font-size: 2rem;
   margin-bottom: 1.2rem;
   text-align: left;

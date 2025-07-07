@@ -1,17 +1,17 @@
 .footer {
-  background: #222;
-  color: #fff;
+  background: #f7fbff;
+  color: #222;
   padding: 1rem;
   text-align: center;
   font-size: 1rem;
-  border-top: 2px solid #e0c15a;
+  border-top: 2px solid #e3f0ff;
 }
 .footer a {
-  color: #bfa52f;
+  color: #3a8dde;
   text-decoration: none;
   margin-left: 0.5rem;
 }
 .contact {
   margin-left: 1rem;
-  color: #fff;
+  color: #222;
 } 
